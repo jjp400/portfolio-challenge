@@ -1,0 +1,100 @@
+:root {
+    --primary-color: #D1D1D1;
+    --secondary-color: #3A5A40;
+    --tertiary-color: #011936;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Times, 'Times New Roman', serif;
+}
+
+header {
+    padding: 8px 35px;
+    background-color: var(--tertiary-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+header h1 {
+    color: var(--primary-color);
+}
+
+header a {
+    color: var(--primary-color);
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+#about-me article {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+section h2 {
+    text-align: right;
+    width: 45%;
+    border-right: 5px solid var(--tertiary-color);
+    padding: 30px;
+    font-size: 36px;
+}
+
+section article {
+    width: 75%;
+}
+
+section #my-work-content {
+    flex: 3 auto;
+}
+
+footer {
+    padding: 12px 24px;
+    background-color: var(--tertiary-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h2 {
+    color: var(--primary-color);
+    font-size: 30px;
+}
+
+footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+#my-work {
+    width: 100%;
+}
+
+#my-work-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.primary-project a img,
+.secondary-projects a img {
+    width: 100%;
+}

@@ -48,15 +48,11 @@ header nav ul li {
     font-weight: bold;
 }
 
-/* #about-me article {quat
-    width: 100%;
-} */
-
 section {
     width: 100%;
     display: grid;
     grid-template-columns: 1fr  1fr 1fr;
-    /* grid-template-rows: auto auto; */
+    grid-template-rows: auto auto;
     margin: 20px;
     padding: 40px;
 }
@@ -72,8 +68,6 @@ section h2, dummy {
 
 }
 
-
-
 section div {
     grid-column-start: 2;
     grid-column-end: 4;
@@ -81,20 +75,11 @@ section div {
     flex-direction: row;
 }
 
-/* a {
-    width: auto;
-    height: auto;
-} */
-
 #about-div {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-
-/* #selfie {
-    max-width: 50%;;
-} */
 
 p {
     font-size: 2em;
@@ -104,7 +89,6 @@ body img {
     border: 3px solid var(--primary-color);
     border-radius: 15px;
 }
-
 
 .primary-projects {
     display: inline-block;

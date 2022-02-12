@@ -7,7 +7,7 @@
 ![Screenshot from 2022-02-12 01-18-36](https://user-images.githubusercontent.com/93355671/153701497-a6084020-a969-4ea5-97cf-62dcbad70617.png)
 
 ## Link
-
+https://johnproodian.github.io/portfolio-challenge/
 
 ## (Recently Learned) Skills Used
 

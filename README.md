@@ -13,7 +13,7 @@ A professional portfolio page built with HTML and CSS.
 * CSS
 
 ## Link
-https://johnproodian.github.io/portfolio-challenge/
+https://johnproodian.github.io/portfolio-html-css/
 
 ## (Recently Learned) Skills Used
 

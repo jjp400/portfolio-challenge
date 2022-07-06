@@ -12,7 +12,7 @@ A professional portfolio page built with HTML and CSS.
 * HTML
 * CSS
 
-## Link
+## Website
 https://johnproodian.github.io/portfolio-html-css/
 
 ## (Recently Learned) Skills Used

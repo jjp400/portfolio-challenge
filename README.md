@@ -17,6 +17,6 @@ https://johnproodian.github.io/portfolio-html-css/
 
 ## (Recently Learned) Skills Used
 
-* Using CSS layout techniques like grid and flexbox, as well as media queries, to create mobile-responsive layouts
+* Using CSS layout techniques like grid and flexbox, as well as media queries, to create mobile-responsive layouts (still working on making it mobile-responsive)
 * Using advanced CSS selectors and custom properties to create an attractive and intuitive UI
 * Using GitHub pages to publish webpage to the Internet
